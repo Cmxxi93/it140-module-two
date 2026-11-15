@@ -2,34 +2,20 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Using Visual Studio Code through GitHub Codespaces was a new experience for me as I continue learning Python. Initially, I found navigating the different tools a little challenging, especially when trying to run my program. However, after spending some time exploring the workspace, I became more comfortable with the process. Three features I found particularly useful were the Integrated Terminal, Explorer, and Source Control. These tools helped me organize, test, and save my work while completing my first Python assignment.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Integrated Terminal
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The Integrated Terminal was one of the most helpful features because it allowed me to run my Python program directly within Visual Studio Code. At first, I had difficulty figuring out how to open a new terminal, but once I understood the process, I was able to execute my program using a Python command. I entered a name and age and confirmed that the program calculated the correct birth year. Being able to immediately view the results made testing my code easier and helped me understand how Python processes user input.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Explorer
 
-TODO: Replace with your Feature 1 paragraph here.
+Another feature I found useful was the Explorer, which allowed me to navigate through the folders and files associated with my assignment. I used it to locate the Part-A folder and open the name_age.py file to review my Python code. Having everything organized in one place made it easier to find what I needed without searching through multiple windows. I believe this feature is especially beneficial for beginners because it helps keep programming projects organized and manageable.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Source Control
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The Source Control feature was also helpful because it allowed me to track and save changes to my program. After completing and testing my Python code, I used Source Control to commit my changes and synchronize them with my GitHub repository. This helped me understand the importance of saving different versions of my work. I can see how this feature would be valuable for larger programming projects, especially when making changes or working with other developers.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Overall, completing this assignment helped me become more familiar with Visual Studio Code and the tools available within an IDE. Although I experienced some challenges in the beginning, learning how to navigate files, run Python programs, and manage changes made the process easier. I feel more confident using these features and believe they will continue to help me as I develop my programming and problem-solving skills.
